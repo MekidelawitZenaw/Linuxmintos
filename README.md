@@ -1,0 +1,2 @@
+# Linuxmintos
+Linuxmint installation
