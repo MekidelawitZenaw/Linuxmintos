@@ -1,2 +1,4 @@
 # Linuxmintos
-Linuxmint installation
+# linuxmint installtion 
+
+# system call 
